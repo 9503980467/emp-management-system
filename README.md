@@ -1,4 +1,4 @@
 # emp-management-system
-Its my sirst project
+Its my first project
 <br>
 Author - Aditya Jagtap
